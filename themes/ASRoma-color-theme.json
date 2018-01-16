@@ -6,7 +6,7 @@
         "foreground": "#D5CED9",
         "widget.shadow": "#2e333f",
         "selection.background": "#746f77",
-        "errorForeground": "#FC644D",
+        "errorForeground": "#881518",
 
         "button.background": "#FBAE00",
         "button.hoverBackground": "#FBAE00",
@@ -88,11 +88,11 @@
         "editorBracketMatch.background": "#746f77",
         "editorBracketMatch.border": "#746f77",
         "editorOverviewRuler.border": "#4F4355",
-        "editorError.foreground": "#FC644D",
+        "editorError.foreground": "#881518",
         "editorWarning.foreground": "#FF9F2E",
-        "editorGutter.modifiedBackground": "#3B79C7BB",
-        "editorGutter.addedBackground": "#45C758BB",
-        "editorGutter.deletedBackground": "#FC644DBB",
+        "editorGutter.modifiedBackground": "#0b63cfbb",
+        "editorGutter.addedBackground": "#09e42abb",
+        "editorGutter.deletedBackground": "#881518",
 
         "diffEditor.insertedTextBackground": "#A5F69C20",
         "diffEditor.removedTextBackground": "#FC644D20",
@@ -120,8 +120,8 @@
         "merge.incomingHeaderBackground": "#3B79C7BB",
         "merge.incomingContentBackground": "#3B79C740",
 
-        "panel.background": "#23262E",
-        "panelTitle.activeBorder": "#23262E",
+        "panel.background": "#1b1b1b",
+        "panelTitle.activeBorder": "#FBAE00",
         "panelTitle.inactiveForeground": "#746f77",
 
         "statusBar.foreground": "#FBAE00",
@@ -140,7 +140,7 @@
         "notification.buttonHoverBackground": "#FBAE00",
         "notification.infoBackground": "#FBAE00",
         "notification.warningBackground": "#FF9F2E",
-        "notification.errorBackground": "#FC644D",
+        "notification.errorBackground": "#881518",
 
         "extensionButton.prominentBackground": "#FBAE00",
         "extensionButton.prominentHoverBackground": "#FBAE00",
