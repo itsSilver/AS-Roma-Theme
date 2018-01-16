@@ -2,7 +2,7 @@
 
 ![andromeda-logotype](images/asroma-cover.png)
 
-![andromeda-screenshot](images/andromeda.png)
+![andromeda-screenshot](images/asroma.png)
 
 > **NOTE**: This theme is created based on AS Roma Football Club Black Kit and is nice dark theme. Font -> Fira Code , Icons -> Material Icon color #FBAE00
 
