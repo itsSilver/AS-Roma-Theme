@@ -1,3 +1,5 @@
+> **Forked**: Theme forked from Andromeda theme by EliverLara, used only syntax colors
+
 ![andromeda-logotype](images/asroma-cover.png)
 
 ![andromeda-screenshot](images/andromeda.png)
@@ -6,4 +8,4 @@
 
 ## License
 
-[MIT](https://github.com/EliverLara/Andromeda/blob/master/LICENSE.md)
+[MIT](https://github.com/itsSilver/AS-Roma-Theme/blob/master/LICENSE)
