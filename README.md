@@ -1,4 +1,4 @@
-![andromeda-logotype](images/andromeda-cover.png)
+![andromeda-logotype](images/asroma-cover.png)
 
 ![andromeda-screenshot](images/andromeda.png)
 
