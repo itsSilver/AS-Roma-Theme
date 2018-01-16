@@ -1,0 +1,35 @@
+{
+    "name": "asroma",
+    "displayName": "AS Roma Theme",
+    "description": "Dark theme based on AS Roma Black Second Kit",
+    "version": "1.1.0",
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#23262E",
+        "theme": "dark"
+    },
+    "publisher": "Silver Turku",
+    "author": {
+        "name": "Silver Turku",
+        "url": "https://github.com/itsSilver",
+        "email": "silverturku@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/itsSilver/AS-Roma-Theme"
+    },
+    "engines": {
+        "vscode": "^1.14.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "AS Roma Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ASRoma-color-theme.json"
+            }
+        ]
+    }
+}
