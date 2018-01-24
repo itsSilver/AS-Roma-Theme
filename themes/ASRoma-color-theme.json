@@ -90,9 +90,9 @@
         "editorOverviewRuler.border": "#4F4355",
         "editorError.foreground": "#881518",
         "editorWarning.foreground": "#FF9F2E",
-        "editorGutter.modifiedBackground": "#0b63cfbb",
-        "editorGutter.addedBackground": "#09e42abb",
-        "editorGutter.deletedBackground": "#881518",
+        "editorGutter.addedBackground": "#71f883",
+        "editorGutter.modifiedBackground": "#89c6ff",
+		"editorGutter.deletedBackground": "#ff6262",
 
         "diffEditor.insertedTextBackground": "#A5F69C20",
         "diffEditor.removedTextBackground": "#FC644D20",
